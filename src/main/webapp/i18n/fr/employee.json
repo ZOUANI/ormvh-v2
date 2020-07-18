@@ -16,10 +16,6 @@
       "detail": {
         "title": "Employee"
       },
-      "createdAt": "Created At",
-      "updatedAt": "Updated At",
-      "createdBy": "Created By",
-      "updatedBy": "Updated By",
       "user": "User",
       "service": "Service"
     }

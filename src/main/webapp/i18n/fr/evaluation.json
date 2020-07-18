@@ -16,11 +16,7 @@
       "detail": {
         "title": "Evaluation"
       },
-      "title": "Title",
-      "createdAt": "Created At",
-      "updatedAt": "Updated At",
-      "createdBy": "Created By",
-      "updatedBy": "Updated By"
+      "title": "Title"
     }
   }
 }

@@ -2,25 +2,21 @@
   "ormvahApp": {
     "expeditorType": {
       "home": {
-        "title": "ExpeditorTypes",
-        "createLabel": "Créer un nouveau Expeditor Type",
-        "createOrEditLabel": "Créer ou éditer un Expeditor Type",
-        "notFound": "Aucun Expeditor Type trouvé"
+        "title": "Type Expéditeur",
+        "createLabel": "Créer un nouveau Type Expéditeur",
+        "createOrEditLabel": "Créer ou éditer un Type Expéditeur",
+        "notFound": "Aucun Type Expediteur trouvé"
       },
-      "created": "Un nouveau Expeditor Type a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Expeditor Type avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Expeditor Type avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau Type Expéditeur a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Type Expéditeur avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Type Expéditeur avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Etes-vous certain de vouloir supprimer le Expeditor Type {{ id }} ?"
+        "question": "Etes-vous certain de vouloir supprimer le Type Expéditeur {{ id }} ?"
       },
       "detail": {
-        "title": "Expeditor Type"
+        "title": "Type Expéditeur"
       },
-      "title": "Title",
-      "createdAt": "Created At",
-      "updatedAt": "Updated At",
-      "createdBy": "Created By",
-      "updatedBy": "Updated By"
+      "title": "Title"
     }
   }
 }

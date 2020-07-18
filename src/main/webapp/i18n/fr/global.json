@@ -3,24 +3,22 @@
     "title": "Ormvah",
     "browsehappy": "Vous utilisez un <strong>ancien</strong> navigateur. Veuillez <a href=\"http://browsehappy.com/?locale=fr\">mettre à jour votre navigateur</a> pour une meilleure expérience.",
     "menu": {
-      "home": "Accueil",
+      "home": "Courriers",
+      "dashboard": "Tableau de board",
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
-        "main": "Entités",
+        "main": "Configuration",
         "courrier": "Courrier",
-        "natureCourrier": "Nature Courrier",
-        "voie": "Voie",
-        "expeditor": "Expeditor",
-        "expeditorType": "Expeditor Type",
-        "subdivision": "Subdivision",
-        "leService": "Le Service",
-        "employee": "Employee",
+        "expeditor": "Expéditeur/Destinataire",
+        "document": "Document",
+        "content": "Content",
+        "leService": "Les services",
+        "employee": "Affectation Employee/Service",
         "task": "Task",
         "evaluation": "Evaluation",
-        "courrierObject": "Courrier Object",
-        "modelLettreReponse": "Model Lettre Reponse",
-        "categorieModelLettreReponse": "Categorie Model Lettre Reponse",
-        "bordereau": "Bordereau",
+        "courrierObject": "Objet des courriers",
+        "expeditorType": "Type Expéditeur",
+        "subdivision": "Subdivision",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
@@ -112,6 +110,7 @@
       "delete": "Supprimer",
       "open": "Ouvrir",
       "save": "Sauvegarder",
+      "traite": "Traité",
       "view": "Voir"
     },
     "detail": {
@@ -131,8 +130,7 @@
       "maxbytes": "Ce champ doit être inférieur à {{max}} bytes.",
       "pattern": "Ce champ doit suivre l'expression régulière {{pattern}}.",
       "number": "Ce champ doit être un nombre.",
-      "datetimelocal": "Ce champ doit être une date et une heure.",
-      "patternLogin": "Ce champ ne peut contenir que des lettres, des chiffres ou des adresses e-mail."
+      "datetimelocal": "Ce champ doit être une date et une heure."
     }
   },
   "error": {
@@ -143,11 +141,11 @@
     "Size": "Le champ {{fieldName}} ne respecte pas les critères minimum et maximum !",
     "userexists": "Login déjà utilisé !",
     "emailexists": "Email déjà utilisé !",
-    "idexists": "Une nouvelle entité {{entityName}} ne peut pas avoir d'identifiant !",
-    "idnull": "Identifiant invalide",
+    "idexists": "Une nouvelle entité {{entityName}} ne peut pas avoir d'ID !",
+    "idnull": "Invalid ID",
     "file": {
-      "could.not.extract": "Impossible d'extraire le fichier",
-      "not.image": "Le fichier doit être une image et non du type \"{{ fileType }}\""
+      "could.not.extract": "Could not extract file",
+      "not.image": "File was expected to be an image but was found to be \"{{ fileType }}\""
     }
   },
   "footer": "Ceci est votre pied de page"

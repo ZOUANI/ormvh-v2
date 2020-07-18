@@ -2,9 +2,9 @@
   "ormvahApp": {
     "Status": {
       "null": "",
-      "Ouvert": "Ouvert",
-      "Encours": "Encours",
-      "Traite": "Traite"
+      "Ouvert": "NON TRAITEE",
+      "Encours": "EN COURS DE TRAITEMENT",
+      "Traite": "TRAITEE"
     }
   }
 }

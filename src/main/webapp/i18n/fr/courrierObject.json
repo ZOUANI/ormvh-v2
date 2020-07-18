@@ -3,25 +3,21 @@
     "courrierObject": {
       "home": {
         "title": "CourrierObjects",
-        "createLabel": "Créer un nouveau Courrier Object",
-        "createOrEditLabel": "Créer ou éditer un Courrier Object",
-        "notFound": "Aucun Courrier Object trouvé"
+        "createLabel": "Créer un nouveau Objet du Courrier",
+        "createOrEditLabel": "Créer ou éditer un Objet du Courrier",
+        "notFound": "Aucun Objet du Courrier trouvé"
       },
-      "created": "Un nouveau Courrier Object a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Courrier Object avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Courrier Object avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau Objet du Courrier a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Objet du Courrier avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Objet du Courrier avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Etes-vous certain de vouloir supprimer le Courrier Object {{ id }} ?"
+        "question": "Etes-vous certain de vouloir supprimer le Objet du Courrier {{ id }} ?"
       },
       "detail": {
-        "title": "Courrier Object"
+        "title": "Objet du Courrier"
       },
       "title": "Title",
-      "category": "Category",
-      "createdAt": "Created At",
-      "updatedAt": "Updated At",
-      "createdBy": "Created By",
-      "updatedBy": "Updated By"
+      "category": "Category"
     }
   }
 }

@@ -2,10 +2,10 @@
   "ormvahApp": {
     "task": {
       "home": {
-        "title": "Tasks",
-        "createLabel": "Créer un nouveau Task",
-        "createOrEditLabel": "Créer ou éditer un Task",
-        "notFound": "Aucun Task trouvé"
+        "title": "Taches",
+        "createLabel": "Créer une nouvelle tache",
+        "createOrEditLabel": "Créer ou éditer une tache",
+        "notFound": "Aucun tache trouvé"
       },
       "created": "Un nouveau Task a été créé avec l'identifiant {{ param }}",
       "updated": "Le Task avec l'identifiant {{ param }} a été mis à jour",
@@ -24,14 +24,6 @@
       "processedAt": "Processed At",
       "observation": "Observation",
       "status": "Status",
-      "createdBy": "Created By",
-      "updatedBy": "Updated By",
-      "delai": "Delai",
-      "relance": "Relance",
-      "accuse": "Accuse",
-      "reponse": "Reponse",
-      "dateAccuse": "Date Accuse",
-      "dateReponse": "Date Reponse",
       "assigne": "Assigne",
       "courrier": "Courrier"
     }

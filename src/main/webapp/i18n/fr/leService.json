@@ -18,10 +18,6 @@
       },
       "title": "Title",
       "description": "Description",
-      "createdAt": "Created At",
-      "updatedAt": "Updated At",
-      "createdBy": "Created By",
-      "updatedBy": "Updated By",
       "courrier": "Courrier"
     }
   }
